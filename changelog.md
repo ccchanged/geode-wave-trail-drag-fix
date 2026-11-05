@@ -1,3 +1,6 @@
+# v1.6.0-beta.1
+- update to 2.2091 (Geode v6.0.0-alpha.1)
+
 # v1.5.0
 - update to 2.2081
 
