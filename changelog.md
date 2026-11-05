@@ -1,3 +1,6 @@
+# v1.5.1
+- iOS is now available
+
 # v1.5.0
 - update to 2.2081
 
