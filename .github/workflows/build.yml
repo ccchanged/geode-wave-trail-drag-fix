@@ -24,7 +24,7 @@ jobs:
           target: Android64
 
         - name: iOS
-          os: geode-ios
+          os: macos-latest
           target: ios
 
     name: ${{ matrix.config.name }}
